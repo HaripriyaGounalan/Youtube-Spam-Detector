@@ -13,11 +13,11 @@ The classifiers were trained using:
 The project evaluates the effectiveness of these classifiers in detecting spam comments on YouTube, providing insights into their accuracy, precision, recall, and overall performance across different training scenarios.
 
 Performance After Training on a Single Dataset:
-![output1](https://github.com/user-attachments/assets/6fe9a4c5-fd69-40ef-a5b8-8467293e3945)
+![output1](https://github.com/user-attachments/assets/364aa96a-7f34-492d-a42e-15a6f5496e2f)
 ![output2](https://github.com/user-attachments/assets/78051906-675a-49cd-8599-48c19f33b1f6)
 
 Performance After Training on Multiple Datasets:
-![Multiple_output1](https://github.com/user-attachments/assets/cb4a6e66-0618-43fd-b49d-3ba0a1af67c1)
+![Multiple_output1](https://github.com/user-attachments/assets/bcd24270-4b9e-4650-8f14-aeed3792bbd2)
 ![Multiple_output2](https://github.com/user-attachments/assets/cb4a6e66-0618-43fd-b49d-3ba0a1af67c1)
 
 Graphical User Interface (GUI):
